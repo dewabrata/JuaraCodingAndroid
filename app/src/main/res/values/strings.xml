@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JuaraCodingAndroid</string>
+    <string name="btnKembali">Kembali</string>
+    <string name="btnPindah">PINDAH</string>
+</resources>
